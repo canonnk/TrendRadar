@@ -49,6 +49,11 @@ DJI
 bytedance
 张一鸣
 
+小米
+mi
+su7
+yu7
+
 特斯拉
 马斯克
 
@@ -111,3 +116,20 @@ ai
 宇宙
 飞船
 航空
+
+
+美联储
+加息
+降息
+黄金
+缩表
+扩表
+A股
+股票
+
+deepseek
+gemini
+kimi
+千问
+混元
+QWen
